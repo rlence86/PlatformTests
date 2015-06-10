@@ -1,0 +1,26 @@
+{
+  "playerStart": {"x": 120, "y": 500},
+  "enemiesData": [ 
+      {"x": 40, "y": 50, "speed": 1},
+      {"x": 40, "y": 50, "speed": 1},
+      {"x": 40, "y": 50, "speed": 1},
+      {"x": 40, "y": 50, "speed": 1},
+      {"x": 40, "y": 50, "speed": 1}
+  ],
+  "floorData": [
+      {"x": -250},
+      {"x": 1560}
+  ],
+  "platformData": [
+      {"size": "medium", "x": 242, "y": 529, "rotation": 0},  
+      {"size": "medium", "x": 526, "y": 456, "rotation": 0},
+      {"size": "small", "x": 505, "y": 352, "rotation": 0},
+      {"size": "large", "x": 826, "y": 324, "rotation": 0},
+      {"size": "small", "x": 756, "y": 211, "rotation": 0},
+      {"size": "small", "x": 590, "y": 180, "rotation": 0},
+      {"size": "medium", "x": 1250, "y": 200, "rotation": 0},
+      {"size": "small", "x": 1425, "y": 280, "rotation": 0},
+      {"size": "small", "x": 1312, "y": 354, "rotation": 0}
+    ],
+  "goal": {"x": 20, "y": 90}
+}
